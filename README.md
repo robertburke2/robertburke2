@@ -4,6 +4,6 @@
 
 Currently working on Shopify Projects
 
-I use JavaScript, Python, C/C++/C#
+JavaScript, Python, C/C++/C#, HTML, CSS
 
 Ask me about customizing your Shopify store
