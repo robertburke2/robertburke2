@@ -2,8 +2,10 @@
 
 
 
-Currently working on Shopify Projects
+Web Developer and Ecommerce expert.  
 
-JavaScript, Python, C/C++/C#, HTML, CSS
+Currently working on Shopify projects.  
 
-Ask me about customizing your Shopify store
+Toolkit: JavaScript, Python, C/C++/C#, HTML, CSS.
+
+Ask me about customizing your Shopify store.
