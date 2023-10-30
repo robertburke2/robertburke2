@@ -6,6 +6,6 @@ Web Developer and Ecommerce expert.
 
 Currently working on Shopify projects.  
 
-JavaScript | Python | C | C++ | C# | HTML | CSS
+JavaScript | HTML | CSS | Python | C | C++ | C# | Java 
 
 Ask me about customizing your Shopify store.
