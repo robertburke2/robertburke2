@@ -5,7 +5,8 @@ or get adulation by the public, but because it is fun to program.
 >  – Linus Torvalds
 
 
-Web Developer and Ecommerce expert.  
+Web Developer  
+and Ecommerce expert.  
 
 Currently working on Shopify projects.  
 
