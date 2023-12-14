@@ -5,10 +5,10 @@ or get adulation by the public, but because it is fun to program.
 >  – Linus Torvalds
 
 
-Web Developer & Ecommerce expert.  
+Web Developer & Ecommerce expert.  Ask me about customizing your Shopify store.
 
-Currently working on Shopify projects.  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev) 
 
-JavaScript | HTML | CSS | Python | C | C++ | C# | Java 
+JavaScript | HTML | CSS | Figma
 
-Ask me about customizing your Shopify store.
+
