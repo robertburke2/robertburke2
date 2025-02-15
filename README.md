@@ -9,7 +9,7 @@ or get adulation by the public, but because it is fun to program.
 ##### Ask me about building custom web applications and Shopify stores ✨
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://github.com/robertburke2) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://github.com/robertburke2) 
 
 JavaScript | HTML | CSS
 
