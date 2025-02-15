@@ -6,7 +6,7 @@ or get adulation by the public, but because it is fun to program.
 >  – Linus Torvalds
 
 
-##### Ask me about building custom web applications and Shopify stores ✨
+##### Ask me about building custom web applications ✨
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://github.com/robertburke2) 
